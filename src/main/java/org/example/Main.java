@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Scientific Calculator Menu:");
             System.out.println("1. Square Root (√x)");
             System.out.println("2. Factorial (!x)");
-            System.out.println("3. Natural Logarithm (ln(x))");
+            System.out.println("3. Natural Logarithm(e) (ln(x))");
             System.out.println("4. Power (x^b)");
             System.out.println("5. Exit");
             System.out.print("Choose an option: ");
