@@ -1,0 +1,4 @@
+2024-09-26 23:22:02.578 [main] INFO  org.example.Main - User selected option: 3
+2024-09-26 23:22:04.694 [main] DEBUG org.example.Main - Calculated natural logarithm of: 2.0
+2024-09-26 23:22:06.399 [main] INFO  org.example.Main - User selected option: 5
+2024-09-26 23:22:06.400 [main] INFO  org.example.Main - User exited.
