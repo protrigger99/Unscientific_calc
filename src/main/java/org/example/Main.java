@@ -39,7 +39,7 @@ public class Main {
                     System.out.print("Enter a number: ");
                     double lnInput = scanner.nextDouble();
                     System.out.println("ln(" + lnInput + ") = " + Math.log(lnInput));
-                    logger.debug("Calculated natural logarithm ln of: " + lnInput);
+                    logger.debug("Calculated natural logarithm (ln) of: " + lnInput);
                     break;
                 case 4:
                     System.out.print("Enter the base number (x): ");
