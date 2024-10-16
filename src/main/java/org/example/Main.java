@@ -11,7 +11,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Scientific Calculator Menu :");
+            System.out.println("Scientific Calculator Menu:");
             System.out.println("1. Square Root (√x)");
             System.out.println("2. Factorial (!x)");
             System.out.println("3. Natural Logarithm(e) (ln(x))");
@@ -39,7 +39,7 @@ public class Main {
                     System.out.print("Enter a number: ");
                     double lnInput = scanner.nextDouble();
                     System.out.println("ln(" + lnInput + ") = " + Math.log(lnInput));
-                    logger.debug("Calculated natural logarithm of: " + lnInput);
+                    logger.debug("Calculated natural logarithm ln of: " + lnInput);
                     break;
                 case 4:
                     System.out.print("Enter the base number (x): ");
