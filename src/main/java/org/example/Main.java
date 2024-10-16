@@ -11,12 +11,12 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Scientific Calculator Menu:");
+            System.out.println("Scientific Calculator Menu :");
             System.out.println("1. Square Root (√x)");
             System.out.println("2. Factorial (!x)");
             System.out.println("3. Natural Logarithm(e) (ln(x))");
             System.out.println("4. Power (x^b)");
-            System.out.println("5. To Exit");
+            System.out.println("5. Exit");
             System.out.print("Choose an option: ");
 
             int choice = scanner.nextInt();
